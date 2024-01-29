@@ -18,3 +18,5 @@
 # Bonus:
 
 - Predict if a given sequence of images contains an action of flipping.
+
+# Project code: QN49hk5Qub80C76X
