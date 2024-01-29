@@ -9,11 +9,13 @@
 
 # Goal:
 
-- Predict if the page is being flipped using a single image.
+- Using a custom CNN model, predict if the page is being flipped using a single image.
+- Using a pre-trained ResNet, VGG16, and MobileNet, predict if the page is being flipped using a single image.
 
 # Success Metric:
 
 - Evaluate model performance based on F1 score, the higher the better but should be higher than 91%.
+- Model should also have a final size lower than 40Mb so it can fit in a smartphone app.
 
 # Bonus:
 
