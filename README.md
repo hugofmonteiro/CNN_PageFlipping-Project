@@ -13,7 +13,7 @@
 
 # Success Metric:
 
-- Evaluate model performance based on F1 score, the higher the better.
+- Evaluate model performance based on F1 score, the higher the better but should be higher than 91%.
 
 # Bonus:
 
