@@ -15,7 +15,7 @@
 # Success Metric:
 
 - Evaluate model performance based on F1 score, the higher the better but should be higher than 91%.
-- Model should also have a final size lower than 40Mb so it can fit in a smartphone app.
+- Model should also have a final size smaller than 40Mb so it can fit in a smartphone app.
 
 # Bonus:
 
