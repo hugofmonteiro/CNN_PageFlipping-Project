@@ -1,7 +1,7 @@
 # Project Resolution:
 
 - This project was successfully completed. Overall, the custom CNN reached over 91% F1-Score but the model was considerably large with 255MB. Several pre-trained models were tested. However, only MobileNet reached the goal of 91% F1-Score while keeping a model size applicable to smartphones (25MB). 
-- A final deployment of the re-trained MobileNet model was performed in gradio and can be tested @: https://3126f2d884709e2ddb.gradio.live
+- A final deployment of the re-trained MobileNet model was performed in gradio and can be tested @: https://1a3f3ea116b9c5b00a.gradio.live
 
 
 # Objectives
