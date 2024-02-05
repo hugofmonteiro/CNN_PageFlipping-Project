@@ -1,4 +1,10 @@
-# MonReader
+# Project Resolution:
+
+- This project was successfully completed. Overall, the custom CNN reached over 91% F1-Score but the model was considerably large with 255MB. Several pre-trained models were tested. However, only MobileNet reached the goal of 91% F1-Score while keeping a model size applicable to smartphones (25MB). 
+- A final deployment of the re-trained MobileNet model was performed in gradio and can be tested @: https://3126f2d884709e2ddb.gradio.live
+
+
+# Objectives
 
 - MonReader is a new mobile document digitalization experience for the blind, for researchers and for everyone else in need for fully automatic, highly fast and high-quality document scanning in bulk. It is composed of a mobile app and all the user needs to do is flip pages and everything is handled by MonReader: it detects page flips from low-resolution camera preview and takes a high-resolution picture of the document, recognizing its corners and crops it accordingly, and it dewarps the cropped document to obtain a bird's eye view, sharpens the contrast between the text and the background and finally recognizes the text with formatting kept intact, being further corrected by MonReader's ML powered redactor.
 
